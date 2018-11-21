@@ -1,16 +1,29 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Nerd Extraordinaire
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Software engineer with a secret backstory as a Sustainability and Physics Engineer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+## Open Source Work
 
-What else do you need?
+### Ladybug Tools
+- 2017 - Present
+- Contributor
 
-### my history
+## Work
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Mallzee
+- 2018 - Present
+- Software Engineer
+
+### BuroHappold
+- 2015 - 2018
+- Sustainability and Physics Engineer
+
+## Schooling
+
+### University of Edinburgh
+- 2010 - 2015
+- MEng Civil and Environmental Engineering
