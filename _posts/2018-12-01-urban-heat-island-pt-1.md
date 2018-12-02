@@ -2,8 +2,9 @@
 layout: post
 title: Designing Out the Urban Heat Island (Pt 1)
 subtitle: What's an UHI and how can we get rid of it
+bigimg: /img/urban_heat_island_pt_1.jpg
 image: /img/urban_heat_island_pt_1.jpg
-share-img: /img/urban_heat_island_pt_1.jpg
+share-img: https://antoinedao.github.io/img/urban_heat_island_pt_1.jpg
 tags: [ladybug-tools, dragonfly]
 gh-repo: AntoineDao/lbt-dragonfly-tutorial
 gh-badge: [star, fork, follow]
