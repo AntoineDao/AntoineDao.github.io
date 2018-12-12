@@ -2,8 +2,8 @@
 layout: post
 title: Designing Out the Urban Heat Island (Part 1)
 subtitle: Dragonfly 101
-bigimg: /img/urban_heat_island_pt_1/blue_dragonfly.jpg
-share-img: https://antoinedao.github.io/img/urban_heat_island_pt_1/blue_dragonfly.jpg
+bigimg: /img/urban_heat_island_pt_1/blue_dragonfly.jpeg
+share-img: https://antoinedao.github.io/img/urban_heat_island_pt_1/blue_dragonfly.jpeg
 tags: [ladybug-tools, dragonfly]
 gh-repo: AntoineDao/lbt-dragonfly-tutorial
 gh-badge: [star, fork, follow]
