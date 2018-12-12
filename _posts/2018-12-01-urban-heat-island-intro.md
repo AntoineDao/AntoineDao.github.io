@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Designing Out the Urban Heat Island (Pt 1)
+title: Designing Out the Urban Heat Island (Intro)
 subtitle: What's an UHI and how can we get rid of it
 bigimg: /img/urban_heat_island_pt_1.jpg
 share-img: https://antoinedao.github.io/img/urban_heat_island_pt_1.jpg
@@ -8,6 +8,8 @@ tags: [ladybug-tools, dragonfly]
 gh-repo: AntoineDao/lbt-dragonfly-tutorial
 gh-badge: [star, fork, follow]
 ---
+
+> TL;DR: Urban Heat Island is bad. Dragonfly and Python can help us model urban spaces and make them better. This series will walk you through how to do this. Here's the repository where all code is saved. https://github.com/AntoineDao/lbt-dragonfly-tutorial
 
 This is the first post in a series of tutorials on how to model Urban Heat Islands and provide design solutions to mitigate their negative impact on humans and their environment. This series is addressed to urban designers and urban design afficionados who want to learn a bit more about the topic and maybe pick up a few python skills.
 
