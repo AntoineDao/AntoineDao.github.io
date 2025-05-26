@@ -27,11 +27,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  antoinedao
 linkedin_username: antoinedao
-
+favicon: /assets/img/favicon.ico
 # Build settings
 theme: jekyll-theme-yat
 theme_color: snowwhite
 night_mode: on
+
+# Add the following to activate the plugin
 plugins:
   - jekyll-feed
 
@@ -40,7 +42,6 @@ minima:
 
 header_pages:
   - about.md
-  # - blog.md
   - tags.md
 
 permalink: /blog/:year/:month/:day/:title/

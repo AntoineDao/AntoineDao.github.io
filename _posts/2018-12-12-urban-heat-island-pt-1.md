@@ -2,9 +2,12 @@
 layout: post
 title: Designing Out the Urban Heat Island with Dragonfly
 subtitle: Dragonfly 101
-banner: /assets/img/urban-heat-island/blue_dragonfly.jpeg
+excerpt_image: /assets/img/urban-heat-island/blue_dragonfly.jpeg
 tags: [ladybug-tools]
 ---
+
+![banner](/assets/img/urban-heat-island/blue_dragonfly.jpeg)
+
 
 > TL;DR: Dragonfly modelling 101. Here's the repository where all code is saved. https://github.com/AntoineDao/lbt-dragonfly-tutorial
 

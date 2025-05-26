@@ -2,9 +2,11 @@
 layout: post
 title: Urban Heat Island Effect - Introduction
 subtitle: What's an UHI and how can we get rid of it
-banner: /assets/img/urban-heat-island/urban_heat_island_pt_1.jpg
+excerpt_image: /assets/img/urban-heat-island/urban_heat_island_pt_1.jpg
 tags: [ladybug-tools]
 ---
+
+![banner](/assets/img/urban-heat-island/urban_heat_island_pt_1.jpg)
 
 > TL;DR: Urban Heat Island is bad. Dragonfly and Python can help us model urban spaces and make them better. This series will walk you through how to do this. Here's the repository where all code is saved. https://github.com/AntoineDao/lbt-dragonfly-tutorial
 
