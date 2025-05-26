@@ -2,7 +2,8 @@
 layout: post
 title: Keep Your AI Polite and Employed
 subtitle: How to Use Guardrails AI to Ensure Your LLM Knows Its Manners.
-excerpt_image: /assets/img/keep-your-ai-polite-and-employed.png
+description: Large Language Models (LLMs) have been widely successful in their rollout to individuals and care-free startups, however they have struggled to muscle their way into enterprise workflows for some reason. This article explores how Guardrails AI can help ensure your LLM behaves properly.
+image: /assets/img/keep-your-ai-polite-and-employed.png
 tags:
   - AI
   - Weekend-Hack
