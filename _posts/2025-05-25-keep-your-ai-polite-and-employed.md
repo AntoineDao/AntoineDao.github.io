@@ -2,7 +2,9 @@
 layout: post
 title: Keep Your AI Polite and Employed
 subtitle: How to Use Guardrails AI to Ensure Your LLM Knows Its Manners.
-header: 
+header:
+    image: /assets/images/keep-your-ai-polite-and-employed.jpg
+    alt: "A polite AI"
 tags:
   - AI
   - Weekend-Hack
