@@ -2,8 +2,7 @@
 layout: post
 title: Designing Out the Urban Heat Island with Dragonfly
 subtitle: Dragonfly 101
-header:
-  image: /assets/img/urban-heat-island/blue_dragonfly.jpeg
+banner: /assets/img/urban-heat-island/blue_dragonfly.jpeg
 tags: [ladybug-tools]
 ---
 

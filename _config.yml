@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Antoine Dao
+title: Antoine's Blog
 # email: antoinedao1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal blog where I write about my thoughts on technology, programming, and anything else really.
@@ -29,20 +29,23 @@ github_username:  antoinedao
 linkedin_username: antoinedao
 
 # Build settings
-theme: minima
+theme: jekyll-theme-yat
+theme_color: snowwhite
+night_mode: on
 plugins:
   - jekyll-feed
 
 minima:
   skin: dark
 
-# header_pages:
-#   - about.md
-#   # - projects.md
-#   - blog.md
-#   # - contact.md
+header_pages:
+  - about.md
+  # - blog.md
+  - tags.md
 
 permalink: /blog/:year/:month/:day/:title/
+
+translate_langs: []
 
 # Exclude from processing.
 # The following items will not be processed, by default.

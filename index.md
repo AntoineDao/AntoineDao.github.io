@@ -3,9 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+heading: "Antoine Dao"
+subheading: "Nerd Extraordinaire"
+banner: '/assets/img/about/actionshot.2.jpg'
 ---
 
-![Action Shot](/assets/img/about/actionshot.png)
+<!-- ![Action Shot](/assets/img/about/actionshot.png) -->
 
 <!-- Hi! I’m Antoine Dao, an Engineering Manager and Developer with a passion for cloud, software, and data engineering. I’ve had the privilege of working across various industries—from environmental simulations to financial platforms—while fostering strong team collaboration and solving complex problems together.
 

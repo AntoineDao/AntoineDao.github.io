@@ -1,12 +1,18 @@
 ---
-layout: page
+layout: about
 title: About
+# banner: '/assets/img/about/actionshot.png'
 permalink: /about/
+# hidden:
+#   - header
+#   - banner
+#   - navigator
+#   - related_posts
 ---
 
 
 <div style="overflow: hidden; display: flex; align-items: center">
-    <img src="/assets/img/about/headshot_round.png" alt="Head Shot" width="200" style="float: left; margin: 0 15px 15px 0;">
+    <img src="/assets/img/about/headshot_round.png" alt="Head Shot" width="200" style="float: left; margin: 0 30px 15px 0;">
     <p>Hi! I’m Antoine Dao, an Engineering Manager and Developer with a passion for cloud, software, and data engineering. I’ve had the privilege of working across various industries—from environmental simulations to financial platforms—while fostering strong team collaboration and solving complex problems together.</p>
 </div>
 

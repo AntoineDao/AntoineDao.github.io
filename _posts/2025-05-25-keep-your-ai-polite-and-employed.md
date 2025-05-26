@@ -2,9 +2,7 @@
 layout: post
 title: Keep Your AI Polite and Employed
 subtitle: How to Use Guardrails AI to Ensure Your LLM Knows Its Manners.
-header:
-    image: /assets/images/keep-your-ai-polite-and-employed.jpg
-    alt: "A polite AI"
+banner: /assets/img/keep-your-ai-polite-and-employed.png
 tags:
   - AI
   - Weekend-Hack
@@ -43,7 +41,7 @@ Take our British English example. You could set up a validator with the followin
 
 Here is what the code for this would look like:
 
-```python
+{% highlight python %}
 # config.py
 
 from guardrails import Guard
@@ -71,7 +69,7 @@ guard = Guard(
         on_fail="fix"
     )
 )
-```
+{% endhighlight %}
 
 The `LLMValidator` class is one that you _will not find_ on Guardrails Hub because I wrote it myself as part of this example. Feel free to copy it from the repository where I saved this code: [antoinedao/guardrails-experiment](https://github.com/antoinedao/guardrails-expriment).
 ## See It in Action

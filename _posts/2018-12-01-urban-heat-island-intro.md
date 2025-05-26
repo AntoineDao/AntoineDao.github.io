@@ -2,8 +2,7 @@
 layout: post
 title: Urban Heat Island Effect - Introduction
 subtitle: What's an UHI and how can we get rid of it
-header:
-  image: /assets/img/urban-heat-island/urban_heat_island_pt_1.jpg
+banner: /assets/img/urban-heat-island/urban_heat_island_pt_1.jpg
 tags: [ladybug-tools]
 ---
 

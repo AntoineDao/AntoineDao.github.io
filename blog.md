@@ -1,5 +1,8 @@
 ---
-layout: home
-# title: Blog
-# permalink: /blog/
+layout: categories
+title: Blog
+permalink: /blog/
+hidden:
+  - header
+  - banner
 ---
